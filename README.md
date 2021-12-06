@@ -25,7 +25,7 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
    Recall for the healthy loans: 99%
    
    Recall for the high-risk loans: 91%
-   ![A](/relative/path/to/img.jpg?raw=true "Optional Title")
+   ![screenshot of model 1 report](/")
 
 * Machine Learning Model 2:
    Model 2 Accuracy: 99.3%
@@ -37,7 +37,7 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
    Recall for the healthy loans: 99%
    
    Recall for the high-risk loans: 99%
-   
+   ![screenshot of model 2 report](/Screenshot (39).png")
 
 ## Summary
 
