@@ -16,18 +16,28 @@ In this Readme, I will describe the analysis I completed for the machine learnin
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
 
 * Machine Learning Model 1:
-   Model 1 Accuracy: 95.2%, 
-   Precision for the healthy loans: 100%  
+   Model 1 Accuracy: 95.2%
+   
+   Precision for the healthy loans: 100% 
+   
    Precision for the high-risk loans: 85%
+   
    Recall for the healthy loans: 99%
+   
    Recall for the high-risk loans: 91%
+   ![A](/relative/path/to/img.jpg?raw=true "Optional Title")
 
 * Machine Learning Model 2:
    Model 2 Accuracy: 99.3%
-   Precision for the healthy loans: 100%  
+   
+   Precision for the healthy loans: 100% 
+   
    Precision for the high-risk loans: 84%
+   
    Recall for the healthy loans: 99%
+   
    Recall for the high-risk loans: 99%
+   
 
 ## Summary
 
