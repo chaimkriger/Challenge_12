@@ -10,6 +10,7 @@ In this section, describe the analysis you completed for the machine learning mo
 * Describe the stages of the machine learning process you went through as part of this analysis.
 * Briefly touch on any methods you used (e.g., `LogisticRegression`, or any resampling method).
 
+
 ## Results
 
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
