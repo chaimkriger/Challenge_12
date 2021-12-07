@@ -26,7 +26,7 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
    
    Recall for the high-risk loans: 91%
    
-   ![screenshot of model 1 report](/https://github.com/chaimkriger/Challenge_12/blob/f2eabf745ca782973c120ab8d482f94393fce109/Screenshot%20(38).png")
+ ![screenshot of model 1 report](/"https://github.com/chaimkriger/Challenge_12/blob/f2eabf745ca782973c120ab8d482f94393fce109/Screenshot%20(38).png")
 
 * Machine Learning Model 2:
    Model 2 Accuracy: 99.3%
@@ -39,7 +39,7 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
    
    Recall for the high-risk loans: 99%
    
-   ![screenshot of model 2 report](/https://github.com/chaimkriger/Challenge_12/blob/f2eabf745ca782973c120ab8d482f94393fce109/Screenshot%20(39).png")
+ ![screenshot of model 2 report](/"https://github.com/chaimkriger/Challenge_12/blob/f2eabf745ca782973c120ab8d482f94393fce109/Screenshot%20(39).png")
 
 ## Summary
 
